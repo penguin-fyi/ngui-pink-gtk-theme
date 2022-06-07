@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=nGUI-Pink
+Comment=nGUI Themes
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=nGUI-Pink
+GtkTheme=nGUI-Pink
+IconTheme=nGUI-Pink
+MetacityTheme=nGUI-Pink
